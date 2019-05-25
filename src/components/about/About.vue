@@ -2,8 +2,8 @@
 <div>
   <div class="jumbotron jumbotron-fluid">
     <div class="container">
-      <h1 class="display-2">Crypto Vue</h1>
-      <p class="lead">Get all the info you need about your favourite cryptocurrency.</p>
+      <h1 class="display-2">Crypto Is Real</h1>
+      <p class="lead">Keeping it 100 in the crypto space since 2009</p>
     </div>
   </div>
   <div class="container text-light">
@@ -64,6 +64,7 @@
       <li>Improve global error and notifications management.</li>
       <li>Add a beautiful sticky footer</li>
       <li>Nice thing to have would be i18n</li>
+      <li>Add artificial intelligence and predictive models with alerts.</li>
     </ul>
   </div>
 </div>
