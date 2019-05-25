@@ -1,4 +1,4 @@
-# Crypto IS Real
+# CryptoIsReal.org V2
 
 > A Vue project for cryptocurrency graph visualizations with intentions of adding AI
 
