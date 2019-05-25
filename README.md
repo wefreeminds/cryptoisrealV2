@@ -1,6 +1,6 @@
-# crypto-vue
+# Crypto IS Real
 
-> A Vue project for cryptocurrency graph visualizations
+> A Vue project for cryptocurrency graph visualizations with intentions of adding AI
 
 ## Build Setup
 
