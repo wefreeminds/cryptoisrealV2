@@ -1,7 +1,7 @@
 <template>
   <nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
   <router-link to="/tickers" class="navbar-brand">
-    <b class="text-warning">Crypto-Vue</b>
+    <b class="text-warning">CryptoIsReal.org</b>
   </router-link>
   <button
     class="navbar-toggler"
